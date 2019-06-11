@@ -85,7 +85,7 @@ public class PolygonalSceneObject extends SceneObject {
     }
 
     // ===========================================
-    // COMPLETE THE METHODS BELOW
+    // COMPLETE THE METHODS BELOW -- Testing
     // ===========================================
     
 
